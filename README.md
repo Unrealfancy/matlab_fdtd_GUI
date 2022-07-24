@@ -13,3 +13,4 @@ Matlab -python -lumerical FDTD ，quick build the mode and access result data
   同时如果打开的文件已经有计算结果，也可以直接在分析面板中查看，默认的监视器名称为'R','T','A',其中R和T的名称可以自由更改，可以选择输入想看的monitor  
 3，场分布，右边分析面板可以获得分布图，输入monitor的名字，点击作图，可以获得场分布图，自动获得该monitor的点数，通过point条可以看不同的波长，下面的Interp可以实现场图的插值，
 使图片更清晰。
+![image](https://user-images.githubusercontent.com/109337832/180653646-39a74537-6eea-4ac3-96ec-ed7d942aa72c.png)
